@@ -1,6 +1,10 @@
 import axios from "axios";
 
-const API_URL = "http://localhost:5000/api/goals/";
+// development
+// const API_URL = "http://localhost:5000/api/goals/";
+
+// production
+const API_URL = "https://jwtauthgoalsetter.herokuapp.com/api/goals/";
 
 const createGoal = async (goalData, token) => {
   const config = {
