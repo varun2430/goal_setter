@@ -2,7 +2,7 @@
 
 A goal tracking mern app that uses jwt for user authentication.
 
-![](https://im4.ezgif.com/tmp/ezgif-4-a7d7c60e17.gif)
+![](demo.gif)
 
 ## Demo
 
